@@ -1,6 +1,5 @@
 # Todo-App
 A Todo App (To-Do List Application) is a simple productivity application that allows users to record, manage, and track their daily tasks. It helps users stay organized by keeping a list of things they need to complete, along with their status .
-# 📝 Todo App
 
 A simple, beautiful, and interactive **Todo List Application** built using **HTML, CSS, and JavaScript**.  
 This project allows users to **add**, **view**, and **delete** tasks easily — all from a clean and responsive web interface.
